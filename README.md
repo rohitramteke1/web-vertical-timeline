@@ -2,6 +2,9 @@
 
 This is a simple project that shows the vertical timeline on the webpage for showcasing the skills or experience on the portfolio. 
 
+# LIVE DEMO
+* [Link](https://rohitramteke1.github.io/web-vertical-timeline/)
+
 ## Contributing
 
 If you would like to contribute to the project, please follow the following guidelines:
